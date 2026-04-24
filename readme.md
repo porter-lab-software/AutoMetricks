@@ -1,6 +1,6 @@
 This repository is designed to work with the Metricks repository from AOIPLab. The specific release is forked as Metricks_Warr_2024.
 
-Originator of Metricks Code
+Originator of Metricks Code:
 Warr E, Grieshop J, Cooper RF, Carroll J. The effect of sampling window size on topographical maps of foveal cone density. Front Ophthalmol (Lausanne). 2024 Apr 9;4:1348950. doi: 10.3389/fopht.2024.1348950. PMID: 38984138; PMCID: PMC11182112.
 
 University of Houston College of Optometry
